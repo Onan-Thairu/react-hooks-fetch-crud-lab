@@ -76,39 +76,6 @@
       ],
       "correctIndex": "2",
       "id": 7
-    },
-    {
-      "prompt": "Which of these is not a planet?",
-      "answers": [
-        "Tesla",
-        "Jupiter",
-        "Mars",
-        "Venus"
-      ],
-      "correctIndex": 0,
-      "id": 8
-    },
-    {
-      "prompt": "What is my year of birth?",
-      "answers": [
-        "1990",
-        "2003",
-        "1999",
-        "1998"
-      ],
-      "correctIndex": "3",
-      "id": 9
-    },
-    {
-      "prompt": "Which is the tallest mountain in Africa?",
-      "answers": [
-        "Mt.Kenya",
-        "Mt.Longonot",
-        "Mt.Kilimanjaro",
-        "Mt.Suswa"
-      ],
-      "correctIndex": "2",
-      "id": 10
     }
   ]
 }
